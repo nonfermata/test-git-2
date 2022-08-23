@@ -1,6 +1,6 @@
 console.log('ok');
 
-const someUserAge = 5;
+const someUserAge = 35;
 if(someUserAge >= 18) {
     console.log('Вы совершеннолетний.');
 } else {
